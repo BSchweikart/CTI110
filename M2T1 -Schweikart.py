@@ -1,3 +1,8 @@
+#CTI - 110
+# M2T1
+# Schweikart, Brian
+# 09/05/2017
+
 # Get the projected total sales.
 total_sales = float(input('Enter the projected sales:'))
 
