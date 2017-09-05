@@ -1,3 +1,8 @@
+#CTI -110
+# M2HW2
+# Schweikart, Brian
+#09/05/2017
+
 # Base meal price before tip & Tax
 total_meal = float(input('Enter meal cost:'))
 
